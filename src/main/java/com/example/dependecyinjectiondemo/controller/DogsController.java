@@ -17,7 +17,7 @@ public class DogsController {
     }
 
     public DogsController(DogsService service) {
-        System.out.println("dog controller constructor called");
+        System.out.println("dog controller constructor called called called!!!!!!");
         this.service = service;
     }
     @Autowired
